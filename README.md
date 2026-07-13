@@ -1,2 +1,3 @@
 # test
-fa
+This is not my first git repo
+author - Jura
